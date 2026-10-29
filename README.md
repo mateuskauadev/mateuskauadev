@@ -69,6 +69,16 @@ Exercícios, desafios e projetos resolvidos durante o aprendizado de Python.
 <tr>
 <td colspan="2" valign="top">
 
+### [📦 Análise de atrasos nas entregas](https://github.com/mateuskauadev/projeto_entregas-excel)
+Análise de 99 mil pedidos reais de e-commerce no Excel: 6,8% das entregas atrasam, e Alagoas atrasa quase 5 vezes mais que São Paulo.
+
+<img src="https://img.shields.io/badge/Excel-0D1117?style=flat-square&logo=microsoftexcel&logoColor=58A6FF"/>
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
 ### [🎓 Estudos da graduação · UERJ](https://github.com/mateuskauadev/uerj-estudos)
 Códigos em C da disciplina Construção de Algoritmos e um projeto de front-end, organizados por matéria.
 
