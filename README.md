@@ -47,39 +47,52 @@ Estou construindo meu caminho em **ciência de dados** com um objetivo claro: ch
 
 ## <img src="https://img.shields.io/badge/-%20-1F6FEB?style=flat-square" height="18"/> Projetos
 
-<p align="center">
-  <a href="https://github.com/mateuskauadev/projeto_transportadora-sql">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mateuskauadev&repo=projeto_transportadora-sql&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=1F6FEB&border_color=1F6FEB&border_radius=10" />
-  </a>
-  <a href="https://github.com/mateuskauadev/estudos-python">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mateuskauadev&repo=estudos-python&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=1F6FEB&border_color=1F6FEB&border_radius=10" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/mateuskauadev/uerj-estudos">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mateuskauadev&repo=uerj-estudos&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=1F6FEB&border_color=1F6FEB&border_radius=10" />
-  </a>
-</p>
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### [🚚 Banco de dados de uma transportadora](https://github.com/mateuskauadev/projeto_transportadora-sql)
+Modelagem de 5 tabelas e 10 consultas SQL para analisar atrasos de entrega, uso da frota e excesso de carga nos caminhões.
+
+<img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=58A6FF"/> <img src="https://img.shields.io/badge/DBeaver-0D1117?style=flat-square&logo=dbeaver&logoColor=58A6FF"/>
+
+</td>
+<td width="50%" valign="top">
+
+### [🐍 Estudos em Python](https://github.com/mateuskauadev/estudos-python)
+Exercícios, desafios e projetos resolvidos durante o aprendizado de Python.
+
+<img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=58A6FF"/>
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+### [🎓 Estudos da graduação · UERJ](https://github.com/mateuskauadev/uerj-estudos)
+Códigos em C da disciplina Construção de Algoritmos e um projeto de front-end, organizados por matéria.
+
+<img src="https://img.shields.io/badge/C-0D1117?style=flat-square&logo=c&logoColor=58A6FF"/> <img src="https://img.shields.io/badge/HTML-0D1117?style=flat-square&logo=html5&logoColor=58A6FF"/> <img src="https://img.shields.io/badge/CSS-0D1117?style=flat-square&logo=css&logoColor=58A6FF"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## <img src="https://img.shields.io/badge/-%20-1F6FEB?style=flat-square" height="18"/> Estatísticas
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mateuskauadev&show_icons=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=1F6FEB&border_color=1F6FEB&border_radius=10&locale=pt-br" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateuskauadev&layout=compact&langs_count=6&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_color=1F6FEB&border_radius=10&locale=pt-br" />
+  <img src="./profile-summary-card-output/github_dark/0-profile-details.svg" width="100%" />
+</p>
+
+<p align="center">
+  <img height="180" src="./profile-summary-card-output/github_dark/3-stats.svg" />
+  <img height="180" src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=mateuskauadev&background=0D1117&border=1F6FEB&ring=1F6FEB&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF&border_radius=10&locale=pt_BR" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mateuskauadev&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FFFFFF&area=true&area_color=1F6FEB&hide_border=true&custom_title=Atividade%20no%20GitHub" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mateuskauadev&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7" />
 </p>
 
 ---
