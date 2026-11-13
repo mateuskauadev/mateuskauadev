@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mateuskferreira"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF" /></a>
+  <a href="https://www.linkedin.com/in/mateusfedev"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF" /></a>
   <a href="https://www.instagram.com/eu.kauac"><img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=58A6FF" /></a>
   <img src="https://komarev.com/ghpvc/?username=mateuskauadev&color=1f6feb&style=for-the-badge&label=visitas" />
 </p>
