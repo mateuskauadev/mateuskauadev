@@ -20,12 +20,12 @@
 
 Oi! Sou o Mateus, estudante de **Ciência da Computação na UERJ**, no Rio de Janeiro.
 
-Estou construindo meu caminho em **ciência de dados** com um objetivo claro: chegar em **engenharia de IA**. Por enquanto, isso quer dizer muito SQL, Python e projetos pequenos que respondem perguntas de verdade. O primeiro foi modelar o banco de dados de uma transportadora e descobrir quais entregas atrasavam e qual caminhão estava rodando acima da capacidade. O mais recente junta tudo: analisei 17 anos de preços do diesel no Brasil com Python, SQL e Excel.
+Estou construindo meu caminho em **ciência de dados** com um objetivo claro: chegar em **engenharia de IA**. Por enquanto, isso quer dizer muito SQL, Python e projetos pequenos que respondem perguntas de verdade. O primeiro foi modelar o banco de dados de uma transportadora e descobrir quais entregas atrasavam e qual caminhão estava rodando acima da capacidade. Depois analisei 17 anos de preços do diesel no Brasil com Python, SQL e Excel. O mais recente junta tudo num sistema de verdade: o **RotaCerta**, um sistema web de controle de entregas, no ar para qualquer pessoa testar.
 
 ```txt
 🎓  Ciência da Computação · UERJ
 💼  Estagiário · Secretaria de Estado da Casa Civil (RJ)
-🔭  Agora: Python e Pandas para análise de dados
+🔭  Agora: sistemas web com Python, SQL e Streamlit
 🥋  Fora do código: jiu-jitsu
 ```
 
@@ -40,6 +40,7 @@ Estou construindo meu caminho em **ciência de dados** com um objetivo claro: ch
 <p align="center">
   <img src="https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=58A6FF" />
   <img src="https://img.shields.io/badge/Pandas-0D1117?style=for-the-badge&logo=pandas&logoColor=58A6FF" />
+  <img src="https://img.shields.io/badge/Streamlit-0D1117?style=for-the-badge&logo=streamlit&logoColor=58A6FF" />
   <img src="https://img.shields.io/badge/Jupyter-0D1117?style=for-the-badge&logo=jupyter&logoColor=58A6FF" />
   <img src="https://img.shields.io/badge/DBeaver-0D1117?style=for-the-badge&logo=dbeaver&logoColor=58A6FF" />
   <img src="https://img.shields.io/badge/Excel-0D1117?style=for-the-badge&logo=microsoftexcel&logoColor=58A6FF" />
@@ -53,6 +54,18 @@ Estou construindo meu caminho em **ciência de dados** com um objetivo claro: ch
 <tr>
 <td colspan="2" valign="top">
 
+### [🚚 RotaCerta: sistema de controle de entregas](https://github.com/mateuskauadev/rotacerta)
+Sistema web que classifica cada entrega automaticamente (no prazo, atrasada ou em rota), com painel de indicadores, gráficos, filtros, cadastro com validação e exportação para Excel. Banco relacional em SQLite, regras de negócio em Pandas e interface em Streamlit.
+
+**[▶ Acesse o sistema no ar](LINK_DO_SITE)**
+
+<img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=58A6FF"/> <img src="https://img.shields.io/badge/SQLite-0D1117?style=flat-square&logo=sqlite&logoColor=58A6FF"/> <img src="https://img.shields.io/badge/Pandas-0D1117?style=flat-square&logo=pandas&logoColor=58A6FF"/> <img src="https://img.shields.io/badge/Streamlit-0D1117?style=flat-square&logo=streamlit&logoColor=58A6FF"/>
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
 ### [⛽ Custo do diesel no Brasil (2004–2021)](https://github.com/mateuskauadev/estudos_pandas/tree/main/projeto-combustiveis)
 Fluxo de dados completo com dados públicos da ANP: limpeza em Python, consultas em SQL, gráficos e relatório em Excel. O diesel subiu 165% no período, e o Norte paga o litro mais caro do país.
 
@@ -63,7 +76,7 @@ Fluxo de dados completo com dados públicos da ANP: limpeza em Python, consultas
 <tr>
 <td width="50%" valign="top">
 
-### [🚚 Banco de dados de uma transportadora](https://github.com/mateuskauadev/projeto_transportadora-sql)
+### [🗄️ Banco de dados de uma transportadora](https://github.com/mateuskauadev/projeto_transportadora-sql)
 Modelagem de 5 tabelas e 10 consultas SQL para analisar atrasos de entrega, uso da frota e excesso de carga nos caminhões.
 
 <img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=58A6FF"/> <img src="https://img.shields.io/badge/DBeaver-0D1117?style=flat-square&logo=dbeaver&logoColor=58A6FF"/>
