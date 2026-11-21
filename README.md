@@ -57,7 +57,7 @@ Estou construindo meu caminho em **ciência de dados** com um objetivo claro: ch
 ### [🚚 RotaCerta: sistema de controle de entregas](https://github.com/mateuskauadev/rotacerta)
 Sistema web que classifica cada entrega automaticamente (no prazo, atrasada ou em rota), com painel de indicadores, gráficos, filtros, cadastro com validação e exportação para Excel. Banco relacional em SQLite, regras de negócio em Pandas e interface em Streamlit.
 
-**[▶ Acesse o sistema no ar](LINK_DO_SITE)**
+**[▶ Acesse o sistema no ar](https://rotacerta.streamlit.app/)**
 
 <img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=58A6FF"/> <img src="https://img.shields.io/badge/SQLite-0D1117?style=flat-square&logo=sqlite&logoColor=58A6FF"/> <img src="https://img.shields.io/badge/Pandas-0D1117?style=flat-square&logo=pandas&logoColor=58A6FF"/> <img src="https://img.shields.io/badge/Streamlit-0D1117?style=flat-square&logo=streamlit&logoColor=58A6FF"/>
 
